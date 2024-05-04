@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Make a fizz Buzz Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"need to make some tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/karapk/FizzBuzz.git"
+  },
+  "author": "Karanja Philip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karapk/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/karapk/FizzBuzz#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
