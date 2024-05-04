@@ -4,7 +4,8 @@
   "description": "Make a fizz Buzz Module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"need to make some tests\""
+    "start": "node index.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
